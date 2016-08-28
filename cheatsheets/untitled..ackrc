@@ -1,0 +1,57 @@
+<tr>
+    <td style="text-align:center;">db="</td>
+    <td style="text-align:left;">cd ~/Dropbox"
+<tr>
+    <td style="text-align:center;">dl="</td>
+    <td style="text-align:left;">cd ~/Downloads"
+<tr>
+    <td style="text-align:center;">dt="</td>
+    <td style="text-align:left;">cd ~/Desktop"
+<tr>
+    <td style="text-align:center;">nt="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Notes"
+<tr>
+    <td style="text-align:center;">des="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Design"
+<tr>
+    <td style="text-align:center;">dev="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Development"
+<tr>
+    <td style="text-align:center;">rgp="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Razegroup"
+<tr>
+    <td style="text-align:center;">sha="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Shared\ Folders"
+<tr>
+    <td style="text-align:center;">web="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Website-vhosts"
+<tr>
+    <td style="text-align:center;">wdev="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Website-vhosts\Dev/ Sites"
+<tr>
+    <td style="text-align:center;">wliv="</td>
+    <td style="text-align:left;">cd ~/Dropbox/Website-vhosts\Live/ Sites"
+<tr>
+    <td style="text-align:center;">g="</td>
+    <td style="text-align:left;">git"
+<tr>
+    <td style="text-align:center;">h="</td>
+    <td style="text-align:left;">history"
+<tr>
+    <td style="text-align:center;">j="</td>
+    <td style="text-align:left;">jobs"
+<tr>
+    <td style="text-align:center;">v="</td>
+    <td style="text-align:left;">vim"
+<tr>
+    <td style="text-align:center;">m="</td>
+    <td style="text-align:left;">mate ."
+<tr>
+    <td style="text-align:center;">s="</td>
+    <td style="text-align:left;">subl ."
+<tr>
+    <td style="text-align:center;">o="</td>
+    <td style="text-align:left;">open"
+<tr>
+    <td style="text-align:center;">oo="</td>
+    <td style="text-align:left;">open ."

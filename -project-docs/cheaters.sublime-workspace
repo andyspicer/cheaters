@@ -1,0 +1,885 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"nav",
+				"navigation-toggle"
+			],
+			[
+				"jps",
+				"jps-darkblue"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"background-pos",
+				"ms-background-position-x"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"site",
+				"site-containter"
+			],
+			[
+				"rgp-",
+				"rgp-sprites-phone-sm"
+			],
+			[
+				"rgp",
+				"rgp-sprites-phone-lg"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"gen",
+				"genesis_seo_title"
+			],
+			[
+				"genss",
+				"genesis_do_subnav"
+			],
+			[
+				"gene",
+				"genesis_header"
+			],
+			[
+				"remove",
+				"header_remove"
+			],
+			[
+				"top",
+				"top-slider"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"login",
+				"login-remember"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"Ba",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"re",
+				"repeat-x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"markdow",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Contr",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack ",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack ins	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"Sublimerge: View Diff"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"dif",
+				"Sublimerge: View Diff"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"gi",
+				"Gist: Create Public Gist"
+			],
+			[
+				"git",
+				"Gist: Insert Gist"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"filezi",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"Sublimerge: View Diff"
+			],
+			[
+				"subl",
+				"Sublimerge: View Diff"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"packaag",
+				"Package Control: List Packages"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/awsisme/Dropbox/Apps/Cheaters/cheatsheets/awsaliases.html",
+		"/Users/awsisme/Dropbox/Website-vhosts/Dev-Sites/www.sopherlaw.dev/.git/COMMIT_EDITMSG",
+		"/Users/awsisme/Dropbox/apps/Cheaters/cheatsheets/AWS-Aliases.html",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.osx",
+		"/usr/local/lib/node_modules/phonegap/node_modules/cordova/node_modules/elementtree/node_modules/sax/lib/sax.js",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.gitconfig",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.extra",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.aliases",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/install-deps.sh",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.bash_profile",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/z/z.sh",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/.functions",
+		"/Users/awsisme/.gitconfig",
+		"/Users/awsisme/.aliases",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/OSX Workflow Projects/AWS-dotfiles/.path",
+		"/Users/awsisme/Dropbox/Website-vhosts/Dev Sites/www.sopherlaw.dev/Gruntfile.js",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.aliases",
+		"/etc/hosts",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/install-deps.sh",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/.gitconfig",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.gitconfig",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.gitattributes",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.functions",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.exports",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/irish-dotfiles/.bash_profile",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/.vimrc",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/README.md",
+		"/Users/awsisme/Dropbox/Development/Dev - Projects/dotfiles/bootstrap.sh",
+		"/Users/awsisme/Dropbox/grunttemp/assembletest/templates/index.hbs",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/build/style.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/css/style.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/scss/_config.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/scss/style.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/package.json",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/codekit-config.json",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-grunt-baseline.dev/Gruntfile.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/icon-fonts/scss/_font-awesome-ie7.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/structure/_head-scripts.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/partials/_shame.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/utilities/_conditional.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/ta.com/2013-09-11 ta.com website comp notes.md",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/utilities/_colour.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/head/_head-meta.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/index.html",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/navigation/_responsive-toggle-script.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/css/royalslider.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/partials/_base.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/royalslider.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/icon-fonts/scss/_mixins.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/icon-fonts/scss/_icomoon.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/scss/icon-fonts/scss/_path.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/codekit-config.json",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/structure/_navigation-toggle.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/navigation/_navigation-footer-anchor.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/structure/_banner.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/structure/_contentinfo.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/partials/_variables.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/.gitignore",
+		"/Users/awsisme/Dropbox/Website-vhosts/rad-baseline.dev/humans.txt",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_typography.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_mixins.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_links.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_lists.scss",
+		"/Users/awsisme/Dropbox/Notes/Tech Notes/regex notes.md",
+		"/Users/awsisme/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/royalslider.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/_royalslider.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/js/vendor/royal-slider/rs-unzip-me-3.1.4/new-royalslider.zip Folder/lib/royalslider/jquery.royalslider.min.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/js/vendor/royal-slider/dev/jquery.royalslider.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/js/jquery-1.10.2.min.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/js/jquery-1.10.2.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/-project-docs/notes/Website Overview 2013-09-10.md",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/index.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/style.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_responsive-nav.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/js/main.js",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.dogwalk.dev/index.php",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/scss/_icons.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/icon-fonts/_font-awesome.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_buttons.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/responsive-nav/_responsive-nav.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/css/style.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_base.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/scss/_path.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/scss/_variables.scss",
+		"/Users/awsisme/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/awsisme/Dropbox/_navigation",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/_font-awesome.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_beautons.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/_vars.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/index.html",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/utilities/_license.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/head/_head-ios-startup.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/head/_head-ios.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/head/_head-icons.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/head/_head-meta.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/partials/_variables.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/css/responsive-nav.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/scss/_mixins.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/responsive-nav/_navigation-responsive-nav.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/_jpsfonts.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/config.rb",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/scss/_extras.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/font-awesome/css/font-awesome.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/style.old",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.jps.dev/index.kit",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.jps.dev/index.html",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/main.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/_inuit.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/csswizardry/csswizardry-grids.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_widths.original.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_grids-original.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_mixins.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/css/main.css",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_original-grids.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_csswizardry-grids.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/_defaults.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_widths.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_shared.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_grids.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/csswizardry/_csswizardry-grids.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_nav.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_config.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/partials/_colour.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_push.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_helper.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/objects/_greybox.scss",
+		"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css/generic/_debug.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/icon-fonts",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev/scss/vendor/inuit.css",
+			"<project>",
+			"/Users/awsisme/Dropbox/Website-vhosts/www.sopherlaw.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development/Dev-Websites/www.kahnsmith.dev/wp-content/themes/prose",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/genesis",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass",
+			"/Users/awsisme/Dropbox/Development Docs/Code Examples/Web/bootstrap-master",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Desktop/event-espresso",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/chestnut/sass",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga/library/sass/partials",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga/library/sass",
+			"/Users/awsisme/Dropbox/Development/sites/www.juliandentist.dev/wp-content/themes/bubinga",
+			"/Users/awsisme/Dropbox/Development",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.bloodofthecrossgear.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.bloodofthecrossgear.dev/wp-content/plugins/woocommerce",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev/wp-content/themes/bones",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev/wp-content/themes/bones",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.razegroup.dev",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/RGP - Dev Sites/www.trinityprotection.dev",
+			"<project>",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/Client Projects/www.juliandentist.dev/",
+			"/Users/awsisme/Dropbox/Development Projects/Wordpress Projects/Client Projects/www.juliandentist.dev/wp-content/themes/genesis"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"z -x",
+			"<tr>",
+			"<td>",
+			"</td>",
+			"<td>",
+			"td>",
+			"tr",
+			"z",
+			"<td",
+			"-",
+			"awsisme at AWS-MacMini  ~",
+			"code",
+			"key",
+			"alias",
+			"copy",
+			"keyrepeat",
+			".container",
+			"jps",
+			"@import \"singularitygs\";",
+			"grid-span",
+			"icon-link",
+			"modules",
+			"em",
+			"btn",
+			"jps-font",
+			"btn",
+			"default",
+			"<li>",
+			"class=\"btn\"",
+			"jps-Elder-Button",
+			"<a",
+			"btn",
+			"<li>",
+			"</a>",
+			"<li>",
+			"</span>",
+			".nav",
+			".nav-main-menu",
+			"#navt",
+			"#nav",
+			"nav",
+			"_clearfix.scss",
+			"\"js",
+			"awesome",
+			"fontface",
+			"font",
+			"//",
+			"Gabriel",
+			"by Daniel Silva ",
+			"by Daniel Silva",
+			"stars",
+			"mobile",
+			"media-query",
+			"@if $use-grids == true{",
+			"@if $responsive == true{",
+			"palm",
+			"tablet",
+			"breakpoint",
+			"desk--wide",
+			"lap",
+			"palm",
+			"default",
+			"portable",
+			"desk",
+			"portable",
+			"lap",
+			"palm",
+			"grid-setup",
+			"height",
+			"middle",
+			"rgb",
+			"jps",
+			"rgb",
+			"color",
+			"jps-grey",
+			".s",
+			"palm",
+			"rgb",
+			"grid-center",
+			"grid",
+			"push",
+			"site-logo",
+			"island",
+			"navigation-toggle",
+			"userid",
+			"- cellphone",
+			"-",
+			"(remove from blackberry as well)",
+			":hover",
+			"icon",
+			"youtube",
+			"rgp-appt-form",
+			"juliandentist",
+			"CHILD_THEME_NAME",
+			"CHILD_THEME_URL",
+			"custom.css",
+			"td",
+			"TD",
+			"td",
+			"Bill Erickson",
+			"genesis_custom_loop_args",
+			"genesis_custom_loop",
+			"zend_e",
+			"xdebug",
+			"genesis_grid_loop",
+			"be",
+			"http://www.billerickson.net/a-better-and-easier-grid-loop/",
+			"Bill Erickson",
+			"add",
+			"child_is_doing_grid_loop",
+			"icon",
+			"condensed",
+			"font-size",
+			"$baseFontSize",
+			"$baseFontSize *",
+			"font-size:",
+			"font-size",
+			"font-size:",
+			"font-size: ",
+			"font-size",
+			"font",
+			"h3",
+			"width: 213px;",
+			"40",
+			"ul",
+			"baseFontSize",
+			"grayLight",
+			"$grayLight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vimeo",
+			"chestnut.css",
+			"Andy Spicer",
+			"Site Name: www.razegroup.com\nAuthor: Andy Spicer",
+			"www.razegroup.dev",
+			"Copyright 2013 Trinity Protection Services",
+			"Suite 170",
+			"http://www.kahnsmith.dev/",
+			"http://www.kahnsmith.com/",
+			"<span class=\"Apple-tab-span\">	</span>",
+			"ENGINE=MyISAM"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 114.0
+	},
+	"project": "cheaters.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bubcustom",
+				"wp-content/themes/bubinga/stylesheets/custom.css"
+			],
+			[
+				"func",
+				"wp-content/themes/bubinga/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
